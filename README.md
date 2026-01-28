@@ -653,53 +653,6 @@ CREATE TABLE transactions (
     FOREIGN KEY (staff_id) REFERENCES staff(staff_id)
 );
 ```
-
----
-
-## 📸 Screenshots
-
-### Login Interface
-![Login Screen](screenshots/login.png)
-*Secure role-based authentication system*
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-*Comprehensive overview of salon operations with analytics*
-
-### Receptionist Interface
-![Receptionist Dashboard](screenshots/receptionist-dashboard.png)
-*Streamlined customer management and service processing*
-
-### Customer Management
-![Customer Management](screenshots/customer-management.png)
-*Easy-to-use customer information system*
-
-### Service Selection
-![Service Selection](screenshots/service-selection.png)
-*Intuitive service catalog with pricing*
-
-### Queue Management
-![Queue System](screenshots/queue-management.png)
-*Real-time queue tracking and status updates*
-
-### Billing Interface
-![Billing Screen](screenshots/billing.png)
-*Comprehensive billing with discount application*
-
-### Receipt Generation
-![Receipt](screenshots/receipt.png)
-*Professional receipt with complete transaction details*
-
-### Inventory Management
-![Inventory](screenshots/inventory.png)
-*Real-time stock tracking and management*
-
-### Reports & Analytics
-![Reports](screenshots/reports-analytics.png)
-*Visual reports with charts and performance metrics*
-
----
-
 ## 🔮 Future Enhancements
 
 ### Planned Features
